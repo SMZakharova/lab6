@@ -1,1 +1,1 @@
-# lab6
+# Report template on laboratory work
